@@ -3,4 +3,4 @@
 
 print "Content-Type: text/html"
 print
-print "Hello World!!"
+print "Python 2.7.10"
